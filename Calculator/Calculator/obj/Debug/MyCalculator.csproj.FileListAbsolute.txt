@@ -1,0 +1,22 @@
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\MyCalculator.CalculatorForm.resources
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+C:\Users\Draknor\Desktop\Memory\Calculator\Calculator\obj\Debug\Calculator.frmAboutMe.resources
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\Calculator.frmAboutMe.resources
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\MyCalculator.CalculatorForm.resources
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Draknor\Desktop\Gud Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
